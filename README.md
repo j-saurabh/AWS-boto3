@@ -12,3 +12,5 @@ Configure aws:
 If you have awscli installed, the you can run the \*aws configure\* command to set the credentials
 
 >aws configure
+
+In nix systems, you can have a AWS credential folder in : ~/.aws/credentials
